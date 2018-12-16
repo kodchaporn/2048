@@ -18,8 +18,6 @@ public class PlayPanel extends GuiPanel {
 	private BufferedImage info;
 	private ScoreManager scores;
 	private Font scoreFont;
-//	private String timeF;
-//	private String bestTimeF;
 
 	// Game Over
 	private GuiButton tryAgain;
